@@ -2,6 +2,9 @@
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/lambdapad/padmark/blob/main/LICENSE)
 [![CI](https://github.com/lambdapad/padmark/actions/workflows/elixir.yml/badge.svg)](https://github.com/lambdapad/padmark/actions/workflows/elixir.yml)
+[![Hex.pm](https://img.shields.io/hexpm/v/padmark.svg)](https://hex.pm/packages/padmark)
+[![Hex.pm](https://img.shields.io/hexpm/dw/padmark.svg)](https://hex.pm/packages/padmark)
+[![Hex.pm](https://img.shields.io/hexpm/dt/padmark.svg)](https://hex.pm/packages/padmark)
 
 Padmark is a pure-Elixir Markdown to HTML converter. It has no native dependencies, no NIFs and no external binaries, so it compiles and runs anywhere Elixir does, including inside a Mix escript.
 
