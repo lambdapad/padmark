@@ -45,8 +45,8 @@ Padmark can be installed from Hex or directly from Github. Add it as a git depen
 def deps do
   [
      {:padmark, "~> 1.4.51"}
-     # or from Githun
-    {:padmark, github: "lambdapad/padmark"} # or
+     # or from Github
+     {:padmark, github: "lambdapad/padmark"}
   ]
 end
 ```
