@@ -39,12 +39,14 @@ See the moduledocs of `Padmark`, `Padmark.Options` and `Padmark.Transform` for t
 
 ## Installation
 
-Padmark is not published on Hex. Add it as a git dependency in `mix.exs`:
+Padmark can be installed from Hex or directly from Github. Add it as a git dependency in `mix.exs`:
 
 ```elixir
 def deps do
   [
-    {:padmark, github: "lambdapad/padmark"}
+     {:padmark, "~> 1.4.51"}
+     # or from Githun
+    {:padmark, github: "lambdapad/padmark"} # or
   ]
 end
 ```
